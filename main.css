@@ -81,7 +81,7 @@ body {
     align-items: center;
     max-width: 1000px;
     box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
-    background-color:rgba(255, 252, 248);
+    background-color: white;
 }
 
 .log{
@@ -92,7 +92,7 @@ body {
     align-items: center;
     max-width: 1000px;
     box-shadow: 0px 10px 40px rgba(181, 126, 189, 0.35);
-    background-color:rgba(255, 252, 248);
+    background-color: white;
 }
 
 .lab{
