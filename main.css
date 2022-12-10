@@ -108,7 +108,6 @@ body {
     display: flex;
     width: 980px;
     height: 300px;
-    margin-left: 250px;
 }
 
 .k1{
@@ -179,6 +178,7 @@ body {
     height: 170px;
     background-color: rgb(113, 217, 89);
     display: flex;
+    align-self: flex-start;
 }
 
 .blue{
@@ -196,7 +196,12 @@ body {
     display: flex;
     background-color: rgb(218, 97, 97);
 }
-
+.stih{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    align-self: flex-start;
+}
 .ty1{
     width: 300px;
     height: 580px;
@@ -227,8 +232,8 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin-left: -480px;
     margin-top: -40px;
+    margin-left: 335px;
 }
 
 .ty2{
