@@ -81,7 +81,6 @@ body {
     align-items: center;
     max-width: 1000px;
     box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
-    margin-left: 250px;
 }
 
 .log{
@@ -92,7 +91,6 @@ body {
     align-items: center;
     max-width: 1000px;
     box-shadow: 0px 10px 40px rgba(181, 126, 189, 0.35);
-    margin-left: 250px;
 }
 
 .lab{
@@ -159,6 +157,7 @@ body {
     height: 300px;
     width: 300px;
     background-image: url('./img/f4.jpg');
+    background-size: 100%;
     display: flex;
     align-content: center;
     justify-content: center;
@@ -171,7 +170,7 @@ body {
     font-weight: 400;
     font-size: 20px;
     line-height: 30px;
-    color: #121212;
+    color: #fff;
     margin: 5px;
 }
 
